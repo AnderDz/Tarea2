@@ -1,0 +1,14 @@
+{
+    "producto":[
+        {
+            "Id": 1,
+            "Correo": "usuario1@gmail.com",
+            "Contrasena" : "123456"
+        },
+        {
+            "Id": 2,
+            "Correo": "usuario2@gmail.com",
+            "Contrasena" : "1234567"
+        }
+    ]
+}

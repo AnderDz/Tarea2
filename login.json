@@ -1,9 +1,0 @@
-{
-    "usuario":[
-        {
-            "Id": 1,
-            "Email": "Usuario123",
-            "Precio" : "987654321"
-        }
-    ]
-}
